@@ -1,0 +1,8 @@
+api_key: my_api_key
+
+email_address: sender@gmail.com
+email_password: password
+
+email_subscribers:
+  - subscriber1@gmail.com
+  - subscriber@gmail.com
